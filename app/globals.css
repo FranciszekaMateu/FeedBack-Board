@@ -11,3 +11,14 @@ body {
   border-right: 5px solid transparent;
   border-bottom: 10px solid #888;
 }
+
+.text-white > .triangle-vote-up {
+  border-bottom: 10px solid #ddd;
+}
+
+
+
+
+
+
+
